@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(61, 5, 61);
+}
+
+h1 {
+    color: white;
+}
+
+header p {
+    color: white;
+}
+
+article p {
+    background-color: bisque;
+}
+
+article h2 {
+    color: white;
+}
+
+footer p {
+    color: white;
+}

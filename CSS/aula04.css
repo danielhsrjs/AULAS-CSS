@@ -1,0 +1,16 @@
+body {
+    background-color: #1B7F79;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+#bagayaya {
+    color: #FF4858;
+    text-align: justify;
+    margin-left: 15cm;
+    margin-right: 15cm;
+    font-style: italic;
+    background-color: #00CCC0;
+    text-shadow: 1px 1px 0px black;
+}

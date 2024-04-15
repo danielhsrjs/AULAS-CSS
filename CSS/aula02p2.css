@@ -1,0 +1,23 @@
+body {
+    background-color: #99B4BF;
+}
+
+h1 {
+    background-color: #253C59;
+    color: aliceblue;
+    text-shadow: 2px 2px 4px rgb(185, 197, 207);
+}
+
+h2 {
+    text-align: center;
+    background-color: #2D4B73;
+    color: aliceblue;
+}
+
+ul {
+    font-weight: 1000;
+}
+
+p {
+    text-indent: 20px;
+}

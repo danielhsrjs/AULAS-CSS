@@ -1,0 +1,11 @@
+div {
+    background-color: dimgray;
+    color: white;
+    padding: 20px;
+    border-right: 5px red solid;
+    border-left: 5px red solid;
+    border-top: 5px red solid;
+    border-bottom: 5px red solid;
+    border-bottom-width: 10px;
+    border-top-style: dotted;
+}

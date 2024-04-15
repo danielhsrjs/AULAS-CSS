@@ -1,0 +1,13 @@
+.box1 {
+    background-color: tomato;
+}
+
+.box2 {
+    background-color: rebeccapurple;
+    height: 10vh;
+}
+
+.box3 {
+    background-color: slategray;
+    height: 100vh;
+}
