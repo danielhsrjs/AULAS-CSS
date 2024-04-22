@@ -1,0 +1,20 @@
+input:focus {
+    background-color: blueviolet;
+    color: orange;
+}
+
+a:link {
+    text-decoration: none;
+    color: greenyellow;
+}
+
+a:active {
+    font-size: 20px;
+    color: pink;
+
+}
+
+a:visited {
+    color: red;
+    font-size: 30px;
+}

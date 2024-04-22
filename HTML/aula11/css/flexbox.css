@@ -1,0 +1,37 @@
+.container {
+    width: 600px;
+    height: 600px;
+    border: 2px solid;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 2px solid green;
+    margin: 10px;
+    font-size: 2em;
+    text-align: center;
+    background-image: url(../../../imgs/Via-Lactea.jpg);
+}
+
+.box1 {
+    background-color: #ffbebe;
+    order: 3;
+    flex-grow: 2;
+    
+}
+
+.box2 {
+    background-color: #bebeff;
+    order: 1;
+}
+
+.box3 {
+    order: 2;
+    background-color: #ffffbf;
+    height: 300px;
+}
